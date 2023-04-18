@@ -1,0 +1,127 @@
+﻿Sophia (4/14/2023, 9:51:18 AM): Hi, I'm Sophia the chatbot! 😊 
+Sophia (4/14/2023, 9:51:20 AM): I'll be happy to help you today. To get started, I'll just need some info. You can click here for all the details about how your info is safe with me: https://LEGO.build/Privacy-CB. 
+Sophia (4/14/2023, 9:51:21 AM): Ready? Here we go! Can I get your first name? 
+You (4/14/2023, 9:51:31 AM): Chris 
+Sophia (4/14/2023, 9:51:33 AM): Thanks, Chris! Can I also have your email address in case we need to follow up with you later? 
+You (4/14/2023, 9:51:38 AM): chrisedgemon@gmail.com 
+Sophia (4/14/2023, 9:51:40 AM): Awesome! What can I help you with today? 
+You (4/14/2023, 9:52:04 AM): I'm trying to review a pick a brick order 
+Sophia (4/14/2023, 9:52:06 AM): We try to ship our orders out as quickly as possible, so there’s a very small window where any changes can be made. Let’s check your order and see where it’s at. You can find your order status here: LEGO.build/Orders-CB. 
+Sophia (4/14/2023, 9:52:07 AM): If your order status is listed as ‘In process’, you might be able to cancel it yourself. Check your order history page by clicking on ‘View order’. If you see the ‘cancel order’ option, click it to get started! 
+Sophia (4/14/2023, 9:52:08 AM): Only entire orders can be canceled. Orders with express shipping or gift cards cannot be canceled. If your order status shows as ‘Just placed’, keep checking back to see if the 'cancel order’ option is available for your order. 
+Sophia (4/14/2023, 9:52:10 AM): If your order status shows as ‘In warehouse’ we aren’t able to cancel it, as it’s already being picked and packed for shipping. 
+Sophia (4/14/2023, 9:52:11 AM): Of course, I’ll be happy to help, too! What’s the status of your order? 
+Sophia (4/14/2023, 9:52:13 AM): Menu Options:
+	In Process
+	Backordered
+	In Warehouse
+	Completed
+	Just placed / I'm not sure 
+You (4/14/2023, 9:52:21 AM): I haven't placed it yet 
+Sophia (4/14/2023, 9:52:23 AM): I’ll do my best to help! Click on one of these options to get going. 
+Sophia (4/14/2023, 9:52:25 AM): Menu Options:
+	Orders
+	Parts, stickers or building instructions
+	Product info and availability
+	VIP
+	Website, LEGO Life or something else 
+You (4/14/2023, 9:52:37 AM): You seem like a robot, Sophia. 
+Sophia (4/14/2023, 9:52:40 AM): I’ll do my best to help! Click on one of these options to get going. 
+Sophia (4/14/2023, 9:52:41 AM): Menu Options:
+	Orders
+	Parts, stickers or building instructions
+	Product info and availability
+	VIP
+	Website, LEGO Life or something else 
+You (4/14/2023, 9:52:50 AM): Website, LEGO Life or something else 
+Sophia (4/14/2023, 9:52:51 AM): What can I help you with? 
+Sophia (4/14/2023, 9:52:53 AM): Menu Options:
+	Mobile apps
+	LEGO Account
+	Shipping and payment methods
+	Website or checkout issues
+	Unsubscribe
+	LEGO LIFE and more 
+You (4/14/2023, 9:53:04 AM): I want to see a list of what is on my pick a brick order before confirming. 
+Sophia (4/14/2023, 9:53:06 AM): Let’s get this sorted for you! Confirmation emails can sometimes take a while to arrive. 📧 You can also check your spam or junk folders, since they sometimes like to hide there!
+
+Did you get a confirmation email? 
+Sophia (4/14/2023, 9:53:07 AM): Menu Options:
+	Yes
+	No 
+You (4/14/2023, 9:53:21 AM): I haven't confirmed yet. 
+Sophia (4/14/2023, 9:53:24 AM): I'm going to pass you on to Customer Service.
+
+Is that OK? 
+Sophia (4/14/2023, 9:53:25 AM): Menu Options:
+	Yes, please
+	Start again 
+You (4/14/2023, 9:56:38 AM): Yes, please 
+Sophia (4/14/2023, 9:56:44 AM): OK! Would you like to chat now or send an email? 
+Sophia (4/14/2023, 9:56:45 AM): Menu Options:
+	Send an email
+	Chat now 
+You (4/14/2023, 9:56:59 AM): Chat now 
+Sophia (4/14/2023, 9:57:01 AM): OK! Which of these do you need help with? 
+Sophia (4/14/2023, 9:57:02 AM): Menu Options:
+	An order
+	VIP
+	Something else 
+You (4/14/2023, 9:57:23 AM): An order 
+Sophia (4/14/2023, 9:57:25 AM): OK! I just have a few questions. First, can I have your last name, please? 
+You (4/14/2023, 9:57:29 AM): Edgemon 
+Sophia (4/14/2023, 9:57:31 AM): Great! Can I have your billing address? 🏡 Please include the postal code so we’re sure it’s the right place. 
+You (4/14/2023, 9:57:41 AM): 5540 Farquhar, Dallas, TX, 75209 
+Sophia (4/14/2023, 9:57:43 AM): Excellent, thanks. Nearly done. What's your order number? 📦 LEGO order numbers should begin with a 'T' or a '3.' 
+Sophia (4/14/2023, 9:57:44 AM): Menu Options:
+	I don't have it 
+You (4/14/2023, 9:57:50 AM): I haven't ordered yet. 
+Sophia (4/14/2023, 9:57:52 AM): Has your order shipped? 
+Sophia (4/14/2023, 9:57:53 AM): Menu Options:
+	Yes, it's already shipped
+	No, it hasn't shipped yet
+	I don't know 
+You (4/14/2023, 9:57:58 AM): I haven't ordered it yet. 
+Sophia (4/14/2023, 9:58:00 AM): Has your order shipped? 
+Sophia (4/14/2023, 9:58:01 AM): Menu Options:
+	Yes, it's already shipped
+	No, it hasn't shipped yet
+	I don't know 
+You (4/14/2023, 9:58:17 AM): Are you going to pass me on to customer service or not? 
+Sophia (4/14/2023, 9:58:19 AM): I'm going to pass you on to Customer Service.
+
+Is that OK? 
+You (4/14/2023, 9:58:19 AM): You aren't helping 
+Sophia (4/14/2023, 9:58:20 AM): Menu Options:
+	Yes, please
+	Start again 
+Sophia (4/14/2023, 9:58:22 AM): I’ll do my best to help! Click on one of these options to get going. 
+You (4/14/2023, 9:58:23 AM): yes, please 
+Sophia (4/14/2023, 9:58:23 AM): Menu Options:
+	Yes, please
+	Start again 
+You (4/14/2023, 9:58:25 AM): Yes, please 
+Sophia (4/14/2023, 9:58:28 AM): OK! Would you like to chat now or send an email? 
+Sophia (4/14/2023, 9:58:30 AM): Menu Options:
+	Send an email
+	Chat now 
+You (4/14/2023, 9:59:37 AM): Chat now 
+Sophia (4/14/2023, 9:59:39 AM): OK! Which of these do you need help with? 
+Sophia (4/14/2023, 9:59:40 AM): Menu Options:
+	An order
+	VIP
+	Something else 
+You (4/14/2023, 9:59:42 AM): Something else 
+Sophia (4/14/2023, 9:59:43 AM): OK! I just have a few questions. First, can I have your last name, please? 
+You (4/14/2023, 9:59:47 AM): Edgemon 
+Sophia (4/14/2023, 9:59:49 AM): Great! Can you let us know what you need help with? The more details, the better. 
+You (4/14/2023, 10:00:05 AM): I need help with the ui interface to the website, and not getting stuck in a loop with this dumb robot. 
+Sophia (4/14/2023, 10:00:07 AM): Are there any more details that you think we should know? 
+You (4/14/2023, 10:00:26 AM): Not that I am going to tell you so that you can just go through another bullshit checklist 
+Sophia (4/14/2023, 10:00:34 AM): Thank you. A LEGO expert will be with you soon. 
+Alena (4/14/2023, 10:00:48 AM): Hi! My name is Alena. Let me catch up on your chat so far - I’ll just be a minute. 
+Alena (4/14/2023, 10:02:18 AM): Hello Chris
+so, you want to know how to check the content of your Pick A Brick? 
+You (4/14/2023, 10:06:54 AM): yes, exactly! 
+You (4/14/2023, 10:06:56 AM): tanks alena 
+You (4/14/2023, 10:06:59 AM): thanks* 
